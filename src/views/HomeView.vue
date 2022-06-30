@@ -14,7 +14,7 @@
               </template>
             </StatusCard>
             <StatusCard
-              class="bg-green"
+              class="bg-green capitalize"
               header="System Health"
               :status="widgetsStore.widgets?.health?.value || 'loading'"
             >

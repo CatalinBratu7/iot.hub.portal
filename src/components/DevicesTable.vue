@@ -31,6 +31,14 @@
               <BatteryIcon :charge="device.charge" />
             </div>
           </template>
+          <template v-else-if="column === 'active'">
+            <div
+              class="flex gap-2 md:gap-0 justify-between items-center text-center"
+            >
+              {{ device.active ? "online" : "offline" }}
+              <CheckIcon :active="device.active" />
+            </div>
+          </template>
           <template v-else>
             {{ device[column] }}
           </template>
@@ -41,7 +49,8 @@
 </template>
 <script setup lang="ts">
 import BaseTable from "@/components/BaseTable.vue";
-import BatteryIcon from "./BatteryIcon.vue";
+import BatteryIcon from "@/components/BatteryIcon.vue";
+import CheckIcon from "@/components/CheckIcon.vue";
 import { useDevicesStore } from "../stores/devices.store";
 
 const headers = ["Name", "Charge", "Version", "Status"];
