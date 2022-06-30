@@ -26,17 +26,49 @@
           </div>
         </div>
         <div class="md:col-span-3">
-          <BaseCard class="bg-grey">
-            <div class="flex justify-between">
-              <div class="font-medium text-3xl">Devices</div>
-              <button
-                class="bg-green rounded px-4 py-2 text-center inline-flex items-center hover:contrast-125"
+          <div class="flex flex-col gap-8">
+            <BaseCard class="bg-grey">
+              <div class="flex justify-between">
+                <div class="font-medium text-3xl">Devices</div>
+                <button
+                  class="bg-green rounded px-4 py-2 text-center inline-flex items-center hover:contrast-125"
+                >
+                  <img class="h-5 w-5 mr-4" src="@/assets/icons/add.svg" />
+                  <span class="text-black">Create</span>
+                </button>
+              </div>
+            </BaseCard>
+            <div class="sm:rounded-lg overflow-x-auto">
+              <table
+                class="border-collapse w-full text-sm font-medium text-left"
               >
-                <img class="h-5 w-5 mr-4" src="@/assets/icons/add.svg" />
-                <span class="text-black">Create</span>
-              </button>
+                <thead class="text-black bg-white">
+                  <tr>
+                    <th scope="col" class="border border-blue-dark px-6 py-3">
+                      Name
+                    </th>
+                    <th scope="col" class="border border-blue-dark px-6 py-3">
+                      Charge
+                    </th>
+                    <th scope="col" class="border border-blue-dark px-6 py-3">
+                      Version
+                    </th>
+                    <th scope="col" class="border border-blue-dark px-6 py-3">
+                      Status
+                    </th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr class="bg-grey">
+                    <td class="border border-blue-dark px-6 py-4">Device x1</td>
+                    <td class="border border-blue-dark px-6 py-4">10%</td>
+                    <td class="border border-blue-dark px-6 py-4">1.0.1</td>
+                    <td class="border border-blue-dark px-6 py-4">Online</td>
+                  </tr>
+                </tbody>
+              </table>
             </div>
-          </BaseCard>
+          </div>
         </div>
       </div>
     </div>
