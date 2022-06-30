@@ -21,6 +21,5 @@ Management tool for smart devices
 ## Definition of Done
 
 * Code builds with no errors
-* Mock login is implemented
 * Devices list and device details are viewable
 * User can add a new device
