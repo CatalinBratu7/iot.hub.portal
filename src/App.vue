@@ -1,11 +1,11 @@
 <template>
   <component :is="route.meta.layout">
-    <router-view/>
+    <router-view />
   </component>
 </template>
 
 <script setup lang="ts">
-  import {useRoute} from "vue-router";
+import { useRoute } from "vue-router";
 
-  const route = useRoute();
+const route = useRoute();
 </script>

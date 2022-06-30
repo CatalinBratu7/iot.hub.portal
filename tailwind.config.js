@@ -1,4 +1,4 @@
-/** @type {import('tailwindcss').Config} */
+// eslint-disable-next-line no-undef
 module.exports = {
   content: ["./index.html", "./src/**/*.{vue,js,ts,jsx,tsx}"],
   theme: {
@@ -12,11 +12,6 @@ module.exports = {
       "green-cyan-dark": "#017e63",
       red: "#f53434",
       yellow: "#f5c434",
-    },
-    spacing: {
-      1: "4px",
-      2: "8px",
-      3: "16px",
     },
     extend: {},
   },
