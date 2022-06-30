@@ -8,6 +8,6 @@
 </template>
 
 <script setup lang="ts">
-import HeaderLogo from "./components/HeaderLogo.vue";
-import HeaderTabs from "./components/HeaderTabs.vue";
+import HeaderLogo from "./HeaderLogo.vue";
+import HeaderTabs from "./HeaderTabs.vue";
 </script>
