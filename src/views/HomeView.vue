@@ -4,12 +4,20 @@
       <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
         <div class="md:col-span-1">
           <div class="flex flex-col gap-8">
-            <StatusCard class="bg-cyan" header="Active Devices" status="32">
+            <StatusCard
+              class="bg-cyan"
+              header="Active Devices"
+              :status="widgetsStore.widgets?.active_devices?.value || '0'"
+            >
               <template #icon>
                 <img class="h-16 w-16" src="@/assets/icons/stats.svg" />
               </template>
             </StatusCard>
-            <StatusCard class="bg-green" header="System Health" status="Ok">
+            <StatusCard
+              class="bg-green"
+              header="System Health"
+              :status="widgetsStore.widgets?.health?.value || 'loading'"
+            >
               <template #icon>
                 <img class="h-16 w-16" src="@/assets/icons/health.svg" />
               </template>
@@ -17,7 +25,7 @@
             <StatusCard
               class="bg-yellow"
               header="Energy Levels"
-              status="204 Watts"
+              :status="`${widgetsStore.widgets?.energy?.value || '0'} Watts`"
             >
               <template #icon>
                 <img class="h-16 w-16" src="@/assets/icons/lightning.svg" />
@@ -77,4 +85,8 @@
 <script setup lang="ts">
 import StatusCard from "@/components/StatusCard.vue";
 import BaseCard from "@/components/BaseCard.vue";
+import { useWidgetsStore } from "../stores/widgets.store.js";
+
+const widgetsStore = useWidgetsStore();
+widgetsStore.getWidgets();
 </script>
