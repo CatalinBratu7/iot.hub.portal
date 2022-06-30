@@ -1,16 +1,9 @@
 import { createRouter, createWebHistory } from "vue-router";
 import type { RouteRecordRaw } from "vue-router";
 
-import DefaultLayout from "@/layouts/DefaultLayout.vue";
 import AuthorizedLayout from "@/layouts/AuthorizedLayout.vue";
 
 const routes: Array<RouteRecordRaw> = [
-  {
-    path: "/login",
-    name: "login",
-    component: () => import("@/views/HomeView.vue"),
-    meta: { layout: DefaultLayout },
-  },
   {
     path: "/",
     name: "home",

@@ -46,36 +46,7 @@
                 </button>
               </div>
             </BaseCard>
-            <div class="sm:rounded-lg overflow-x-auto">
-              <table
-                class="border-collapse w-full text-sm font-medium text-left"
-              >
-                <thead class="text-black bg-white">
-                  <tr>
-                    <th scope="col" class="border border-blue-dark px-6 py-3">
-                      Name
-                    </th>
-                    <th scope="col" class="border border-blue-dark px-6 py-3">
-                      Charge
-                    </th>
-                    <th scope="col" class="border border-blue-dark px-6 py-3">
-                      Version
-                    </th>
-                    <th scope="col" class="border border-blue-dark px-6 py-3">
-                      Status
-                    </th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr class="bg-grey">
-                    <td class="border border-blue-dark px-6 py-4">Device x1</td>
-                    <td class="border border-blue-dark px-6 py-4">10%</td>
-                    <td class="border border-blue-dark px-6 py-4">1.0.1</td>
-                    <td class="border border-blue-dark px-6 py-4">Online</td>
-                  </tr>
-                </tbody>
-              </table>
-            </div>
+            <DevicesTable />
           </div>
         </div>
       </div>
@@ -85,6 +56,7 @@
 <script setup lang="ts">
 import StatusCard from "@/components/StatusCard.vue";
 import BaseCard from "@/components/BaseCard.vue";
+import DevicesTable from "@/components/DevicesTable.vue";
 import { useWidgetsStore } from "../stores/widgets.store.js";
 
 const widgetsStore = useWidgetsStore();
