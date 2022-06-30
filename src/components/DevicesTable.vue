@@ -24,17 +24,11 @@
           class="border border-blue-dark px-6 py-4"
         >
           <template v-if="column === 'charge'">
-            <div class="w-full rounded border relative">
-              <div
-                class="bg-green text-xs font-bold flex items-center justify-center py-3 px-2"
-                :style="`width: ${device.charge}%`"
-              >
-                <div
-                  class="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2"
-                >
-                  {{ `${device.charge}%` }}
-                </div>
-              </div>
+            <div
+              class="flex gap-2 md:gap-0 justify-between items-center text-center"
+            >
+              {{ `${device.charge}%` }}
+              <BatteryIcon :charge="device.charge" />
             </div>
           </template>
           <template v-else>
@@ -47,6 +41,7 @@
 </template>
 <script setup lang="ts">
 import BaseTable from "@/components/BaseTable.vue";
+import BatteryIcon from "./BatteryIcon.vue";
 import { useDevicesStore } from "../stores/devices.store";
 
 const headers = ["Name", "Charge", "Version", "Status"];
