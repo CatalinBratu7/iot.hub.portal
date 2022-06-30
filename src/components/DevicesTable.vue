@@ -1,5 +1,5 @@
 <template>
-  <BaseTable>
+  <BaseTable v-if="devicesStore.formattedDevices.length > 0">
     <template #header>
       <tr>
         <template
@@ -46,6 +46,7 @@
       </tr>
     </template>
   </BaseTable>
+  <div v-else>Devices are still loading...</div>
 </template>
 <script setup lang="ts">
 import BaseTable from "@/components/BaseTable.vue";

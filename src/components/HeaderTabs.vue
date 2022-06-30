@@ -1,5 +1,5 @@
 <template>
-  <div class="text-md font-medium text-center">
+  <div class="hidden sm:block text-md font-medium text-center">
     <ul class="flex">
       <li class="mr-2">
         <a href="#" class="inline-block p-4 border-b-4 border-green">
