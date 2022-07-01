@@ -2,8 +2,16 @@
   <BaseCard class="bg-grey text-sm">
     <div class="flex flex-col sm:flex-row justify-between">
       <div class="flex flex-col justify-between flex-1 gap-4">
-        <div class="font-medium text-3xl">
-          {{ devicesStore.device?.name || "-" }}
+        <div class="flex gap-2">
+          <router-link
+            to="/"
+            class="bg-green rounded p-2 text-center inline-flex items-center hover:contrast-125"
+          >
+            <img class="h-5 w-5" src="@/assets/icons/back.svg" />
+          </router-link>
+          <div class="font-medium text-3xl">
+            {{ devicesStore.device?.name || "-" }}
+          </div>
         </div>
         <div class="grid grid-cols-2">
           <div>Status</div>
