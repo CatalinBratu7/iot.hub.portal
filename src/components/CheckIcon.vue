@@ -6,7 +6,11 @@
 </template>
 
 <script setup lang="ts">
-const props = defineProps<{
+type Props = {
   active: boolean;
-}>();
+};
+
+const props = withDefaults(defineProps<Props>(), {
+  active: () => false,
+});
 </script>
