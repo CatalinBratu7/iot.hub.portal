@@ -22,6 +22,6 @@ onMounted(() => {
 });
 
 onBeforeRouteLeave(() => {
-  devicesStore.$patch({ device: {} });
+  devicesStore.$patch({ device: {}, deviceBattery: {}, deviceSensors: [] });
 });
 </script>

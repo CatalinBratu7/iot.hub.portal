@@ -18,3 +18,23 @@ export type Device = {
 };
 
 export type Devices = Array<Device>;
+
+export type SensorValue = {
+  created_at: string;
+  value: number;
+};
+
+export type DeviceBattery = {
+  charges: Array<SensorValue>;
+  current_level: string | number;
+  health: number;
+};
+
+export type Sensor = {
+  id: string;
+  title: string;
+  sensor_type: string;
+  levels: Array<SensorValue>;
+};
+
+export type DeviceSensors = Array<Sensor>;
