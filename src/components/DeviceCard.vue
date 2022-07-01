@@ -4,7 +4,7 @@
       <div class="flex flex-col justify-between flex-1 gap-4">
         <div class="flex gap-2">
           <router-link
-            to="/"
+            :to="{ name: 'dashboard' }"
             class="bg-green rounded p-2 text-center inline-flex items-center hover:contrast-125"
           >
             <img class="h-5 w-5" src="@/assets/icons/back.svg" />

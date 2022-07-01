@@ -1,7 +1,7 @@
 import axios from "axios";
 
 async function getWidgets() {
-  return axios.get(`${import.meta.env.VITE_MOCK_API_KEY}/widgets`);
+  return axios.get("/mocks/widgets.json");
 }
 
 export default {

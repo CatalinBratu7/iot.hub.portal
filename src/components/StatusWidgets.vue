@@ -32,7 +32,7 @@
 
 <script setup lang="ts">
 import { onMounted } from "vue";
-import { useWidgetsStore } from "../stores/widgets.store.js";
+import { useWidgetsStore } from "../stores/widgets.store";
 
 import StatusCard from "@/components/StatusCard.vue";
 

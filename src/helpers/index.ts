@@ -7,3 +7,7 @@ export const mostRecentRead = (readings: Array<SensorValue>) =>
     }
     return mostRecent;
   });
+
+export const randomNumber = (max= 100) => {
+  return Math.floor(Math.random() * max);
+};

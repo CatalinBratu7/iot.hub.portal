@@ -1,7 +1,7 @@
 import { defineStore } from "pinia";
-import DevicesService from "../services/devices.service.js";
-import type { Device, Devices, DeviceSensors } from "../types.js";
-import { DeviceBattery } from "../types.js";
+import DevicesService from "../services/devices.service";
+import { randomNumber } from "../helpers";
+import type { Device, Devices, DeviceSensors, DeviceBattery } from "../types";
 
 export const useDevicesStore = defineStore("devices", {
   state: () => ({
@@ -14,29 +14,30 @@ export const useDevicesStore = defineStore("devices", {
     formattedDevices: (state) =>
       state.devices.map((device) => ({
         ...device,
-        charge: randomBatteryPercentage(),
+        charge: randomNumber(),
       })),
   },
   actions: {
     async getDevices() {
-      DevicesService.getDevices().then((response) => {
-        this.devices = response.data;
-      });
+      const response = await DevicesService.getDevices();
+      this.devices = response.data;
     },
     async getDevice(id: string) {
-      DevicesService.getDevice(id).then((response) => {
-        this.device = response.data;
-        DevicesService.getDeviceBatteryData(id).then((response) => {
-          this.deviceBattery = response.data;
-        });
-        DevicesService.getDeviceSensorsData(id).then((response) => {
-          this.deviceSensors = response.data;
-        });
-      });
+      const response = await DevicesService.getDevice(id);
+      this.device = response.data;
+
+      await Promise.all([
+        this.getDeviceBatteryData(id),
+        this.getDeviceSensorsData(id),
+      ]);
+    },
+    async getDeviceBatteryData(id: string) {
+      const response = await DevicesService.getDeviceBatteryData(id);
+      this.deviceBattery = response.data;
+    },
+    async getDeviceSensorsData(id: string) {
+      const response = await DevicesService.getDeviceSensorsData(id);
+      this.deviceSensors = response.data;
     },
   },
 });
-
-const randomBatteryPercentage = () => {
-  return Math.floor(Math.random() * 100);
-};

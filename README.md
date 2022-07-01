@@ -6,15 +6,11 @@ Management tool for smart devices
 ### Specs
 * Each device entity is connected to a real device
 * There are different users which can have multiple devices claimed
-* The application is protected by authentication
-* Only claimed devices are shown
 * Sensors and other device data can be inspected on a detail view updating themselves
-* Unclaiming a device removes it from all views
 
 ### Non-functional requirements:
 * User experience
 * Maintainability
-* Testability
 * Extensibility
 * Security
 
@@ -22,3 +18,4 @@ Management tool for smart devices
 
 * Code builds with no errors
 * Devices list and device details are viewable
+* User experience is mobile friendly and lightweight

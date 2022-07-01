@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Cinnamon",
+    "image": "device-1.png",
+    "id": "8343bd6a-5c63-4672-8533-a7331577bf93",
+    "active": false,
+    "firmware_version": "0.4.1",
+    "serial_number": "LHWITKI1680_LHWITKI1"
+  },
+  {
+    "name": "Thrianta",
+    "firmware_version": "7.1.4",
+    "active": true,
+    "id": "55c3eeda-e102-4e62-a817-af57243477c4",
+    "serial_number": "XFLOHUI1 XFLOHUI1 XF",
+    "image": "device-2.png"
+  },
+  {
+    "name": "Florida White",
+    "image": "device-1.png",
+    "active": true,
+    "serial_number": "OJQASIK1VIX OJQASIK1",
+    "id": "ab10b821-3dfe-4172-8013-3e8a17ba6792",
+    "firmware_version": "4.0.8"
+  },
+  {
+    "name": "American Chinchilla",
+    "firmware_version": "0.8.3",
+    "active": false,
+    "serial_number": "FXOIUYI1562@FXOIUYI1",
+    "image": "device-3.png",
+    "id": "19c8ce09-b8c2-4827-bcf9-af274d184c7e"
+  },
+  {
+    "name": "Holland Lop",
+    "active": false,
+    "id": "ed99faba-cb52-4abd-bd81-9c405725dda4",
+    "serial_number": "RYFICLN1-RYFICLN1-RY",
+    "image": "device-3.png",
+    "firmware_version": "3.7.0"
+  },
+  {
+    "name": "Jersey Wooly",
+    "serial_number": "CGPOLSC1=CGPOLSC1^CG",
+    "firmware_version": "7.4.2",
+    "active": false,
+    "image": "device-2.png",
+    "id": "f8c5aaa0-debd-4a99-9d96-19510413b728"
+  },
+  {
+    "name": "Blanc de Hotot",
+    "image": "device-2.png",
+    "serial_number": "VTWUTDU1^VTWUTDU1/VT",
+    "firmware_version": "3.3.3",
+    "active": true,
+    "id": "6da12b42-15c1-4933-ba8b-0fef2549b915"
+  },
+  {
+    "name": "American Fuzzy Lop",
+    "image": "device-2.png",
+    "serial_number": "CNQULYK1068_CNQULYK1",
+    "active": false,
+    "firmware_version": "4.6.4",
+    "id": "78e17377-5e13-47c5-aeb6-9c94a1db2fa3"
+  },
+  {
+    "name": "Havana",
+    "id": "5dcdd354-b565-4a3e-9899-5de6ea758b21",
+    "image": "device-3.png",
+    "active": true,
+    "firmware_version": "1.7.3",
+    "serial_number": "ENIOVES1697_ENIOVES1"
+  },
+  {
+    "name": "Thrianta",
+    "firmware_version": "7.4.3",
+    "id": "7891cac6-1d08-4297-8989-433ca3c2c542",
+    "serial_number": "FRVEEUU1=FRVEEUU1=FR",
+    "image": "device-1.png",
+    "active": false
+  },
+  {
+    "name": "Tan",
+    "image": "device-3.png",
+    "serial_number": "HFIIGEY1_HFIIGEY1^HF",
+    "firmware_version": "3.2.4",
+    "id": "756c86b5-4475-4a49-95b1-708a7fd106c5",
+    "active": false
+  },
+  {
+    "name": "Harlequin",
+    "firmware_version": "8.0.7",
+    "image": "device-3.png",
+    "id": "a2fb975c-f6f5-4473-8d48-b3531c859ecc",
+    "serial_number": "MOAIEGJ1JAD MOAIEGJ1",
+    "active": false
+  },
+  {
+    "name": "English Angora",
+    "active": false,
+    "serial_number": "IKTAZAR1@IKTAZAR1^IK",
+    "image": "device-2.png",
+    "id": "6b113a2b-443c-4ed5-b591-760c156d97a1",
+    "firmware_version": "7.6.2"
+  },
+  {
+    "name": "Belgian Hare",
+    "id": "73132f45-e8ff-498f-a5f1-84069d2f2191",
+    "active": true,
+    "serial_number": "CUOUFRW1-CUOUFRW1 CU",
+    "image": "device-2.png",
+    "firmware_version": "1.4.9"
+  },
+  {
+    "name": "Florida White",
+    "firmware_version": "8.4.7",
+    "image": "device-1.png",
+    "active": true,
+    "id": "43a90300-e143-4168-aa8d-de004922ffa2",
+    "serial_number": "OWPETVW1685-OWPETVW1"
+  },
+  {
+    "name": "Californian",
+    "id": "68ee7a5e-1c76-45e6-a2dd-b9d694840dca",
+    "active": false,
+    "image": "device-1.png",
+    "firmware_version": "7.7.8",
+    "serial_number": "KIBEIRL1/KIBEIRL1_KI"
+  },
+  {
+    "name": "Florida White",
+    "firmware_version": "0.7.8",
+    "active": false,
+    "serial_number": "ESMUROG1732@ESMUROG1",
+    "image": "device-3.png",
+    "id": "6cbd06c6-1a2c-4cb9-b09f-b89b44a21ead"
+  },
+  {
+    "name": "Jersey Wooly",
+    "id": "c843ee94-6757-42d3-9250-97effca3a5eb",
+    "active": false,
+    "serial_number": "CSKENRT1+CSKENRT1 CS",
+    "firmware_version": "6.9.6",
+    "image": "device-2.png"
+  },
+  {
+    "name": "Netherland Dwarf",
+    "id": "9e6e121d-3759-4a45-bb53-83a90bc9cbb3",
+    "active": true,
+    "firmware_version": "5.5.5",
+    "image": "device-3.png",
+    "serial_number": "NWOADJB1GOJ/NWOADJB1"
+  },
+  {
+    "name": "Champagne D’Argent",
+    "serial_number": "AYDEISM1_AYDEISM1@AY",
+    "active": false,
+    "id": "1a552f2d-d7e5-4e4d-985c-bd7caccd1898",
+    "image": "device-1.png",
+    "firmware_version": "3.1.7"
+  }
+]

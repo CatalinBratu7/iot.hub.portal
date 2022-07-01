@@ -16,6 +16,6 @@ import BaseCard from "@/components/BaseCard.vue";
 
 const props = defineProps<{
   header: string;
-  status: string | number | undefined;
+  status: string | number;
 }>();
 </script>

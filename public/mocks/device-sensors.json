@@ -1,0 +1,1742 @@
+[
+  {
+    "sensor_type": "temperature",
+    "title": "Andorra",
+    "id": "5fa50c6a-0bf4-4a4f-8b4e-6ac29af3b6e2",
+    "levels": [
+      {
+        "created_at": "2013-03-28T23:00:00.0Z",
+        "value": 4
+      },
+      {
+        "created_at": "2006-11-15T00:00:00.0Z",
+        "value": 76
+      },
+      {
+        "created_at": "1959-06-01T23:00:00.0Z",
+        "value": 93
+      },
+      {
+        "created_at": "1993-03-14T23:00:00.0Z",
+        "value": 97
+      },
+      {
+        "value": 94,
+        "created_at": "2009-07-04T22:00:00.0Z"
+      },
+      {
+        "created_at": "1984-12-26T00:00:00.0Z",
+        "value": 82
+      },
+      {
+        "value": 21,
+        "created_at": "1991-05-11T22:00:00.0Z"
+      },
+      {
+        "created_at": "1986-04-05T22:00:00.0Z",
+        "value": 54
+      },
+      {
+        "created_at": "2014-01-09T23:00:00.0Z",
+        "value": 28
+      },
+      {
+        "created_at": "1952-05-12T23:00:00.0Z",
+        "value": 46
+      },
+      {
+        "value": 12,
+        "created_at": "1955-06-12T23:00:00.0Z"
+      },
+      {
+        "value": 41,
+        "created_at": "1949-07-14T22:00:00.0Z"
+      },
+      {
+        "created_at": "2006-04-21T22:00:00.0Z",
+        "value": 33
+      },
+      {
+        "value": 36,
+        "created_at": "1976-03-05T23:00:00.0Z"
+      },
+      {
+        "created_at": "1945-08-21T21:00:00.0Z",
+        "value": 7
+      },
+      {
+        "value": 88,
+        "created_at": "1974-12-20T00:00:00.0Z"
+      },
+      {
+        "value": 11,
+        "created_at": "1984-01-29T23:00:00.0Z"
+      },
+      {
+        "created_at": "2005-01-05T23:00:00.0Z",
+        "value": 76
+      },
+      {
+        "value": 15,
+        "created_at": "1982-12-15T00:00:00.0Z"
+      },
+      {
+        "value": 86,
+        "created_at": "1945-05-05T22:00:00.0Z"
+      }
+    ]
+  },
+  {
+    "levels": [
+      {
+        "value": 60,
+        "created_at": "2006-03-05T23:00:00.0Z"
+      },
+      {
+        "value": 12,
+        "created_at": "1993-11-06T23:00:00.0Z"
+      },
+      {
+        "created_at": "1969-05-21T23:00:00.0Z",
+        "value": 5
+      },
+      {
+        "value": 13,
+        "created_at": "2011-11-14T00:00:00.0Z"
+      },
+      {
+        "value": 14,
+        "created_at": "2012-02-16T23:00:00.0Z"
+      },
+      {
+        "value": 88,
+        "created_at": "2004-07-21T22:00:00.0Z"
+      },
+      {
+        "created_at": "1963-03-13T23:00:00.0Z",
+        "value": 89
+      },
+      {
+        "created_at": "1974-04-16T23:00:00.0Z",
+        "value": 20
+      },
+      {
+        "created_at": "1983-10-03T23:00:00.0Z",
+        "value": 10
+      },
+      {
+        "created_at": "1946-08-05T22:00:00.0Z",
+        "value": 66
+      },
+      {
+        "created_at": "1945-05-05T22:00:00.0Z",
+        "value": 76
+      },
+      {
+        "value": 0,
+        "created_at": "1999-06-11T22:00:00.0Z"
+      },
+      {
+        "value": 6,
+        "created_at": "2011-09-01T22:00:00.0Z"
+      },
+      {
+        "value": 7,
+        "created_at": "2015-03-02T23:00:00.0Z"
+      },
+      {
+        "value": 77,
+        "created_at": "1997-06-07T22:00:00.0Z"
+      },
+      {
+        "value": 39,
+        "created_at": "1991-06-24T22:00:00.0Z"
+      },
+      {
+        "created_at": "2007-07-29T22:00:00.0Z",
+        "value": 60
+      },
+      {
+        "value": 100,
+        "created_at": "1980-02-09T23:00:00.0Z"
+      },
+      {
+        "value": 100,
+        "created_at": "1967-02-01T23:00:00.0Z"
+      },
+      {
+        "value": 52,
+        "created_at": "1970-12-22T00:00:00.0Z"
+      }
+    ],
+    "sensor_type": "temperature",
+    "id": "d28641a8-ce76-4387-90f9-04700f117287",
+    "title": "Seychelles"
+  },
+  {
+    "id": "7552d353-e5c2-4b71-ae6b-e5ed95af8f45",
+    "title": "Germany",
+    "sensor_type": "humidity",
+    "levels": [
+      {
+        "value": 59,
+        "created_at": "1977-05-17T23:00:00.0Z"
+      },
+      {
+        "created_at": "1988-04-11T22:00:00.0Z",
+        "value": 26
+      },
+      {
+        "value": 22,
+        "created_at": "2012-11-24T00:00:00.0Z"
+      },
+      {
+        "created_at": "2002-09-20T22:00:00.0Z",
+        "value": 62
+      },
+      {
+        "value": 93,
+        "created_at": "1976-10-08T23:00:00.0Z"
+      },
+      {
+        "created_at": "1946-09-10T22:00:00.0Z",
+        "value": 81
+      },
+      {
+        "created_at": "1991-02-16T23:00:00.0Z",
+        "value": 51
+      },
+      {
+        "created_at": "1998-06-03T22:00:00.0Z",
+        "value": 80
+      },
+      {
+        "created_at": "1947-10-06T23:00:00.0Z",
+        "value": 31
+      },
+      {
+        "value": 80,
+        "created_at": "1987-11-22T00:00:00.0Z"
+      },
+      {
+        "created_at": "2000-08-03T22:00:00.0Z",
+        "value": 78
+      },
+      {
+        "created_at": "1948-05-13T22:00:00.0Z",
+        "value": 86
+      },
+      {
+        "created_at": "1988-09-29T23:00:00.0Z",
+        "value": 32
+      },
+      {
+        "value": 44,
+        "created_at": "1994-10-17T00:00:00.0Z"
+      },
+      {
+        "created_at": "1972-11-14T00:00:00.0Z",
+        "value": 23
+      },
+      {
+        "created_at": "1957-02-19T23:00:00.0Z",
+        "value": 38
+      },
+      {
+        "created_at": "1985-04-10T22:00:00.0Z",
+        "value": 57
+      },
+      {
+        "value": 35,
+        "created_at": "2007-06-05T22:00:00.0Z"
+      },
+      {
+        "value": 15,
+        "created_at": "2016-07-16T22:00:00.0Z"
+      },
+      {
+        "created_at": "1959-05-04T23:00:00.0Z",
+        "value": 75
+      }
+    ]
+  },
+  {
+    "title": "Holy See (Vatican Ci",
+    "id": "7dcdeee8-6f65-424e-8dac-18ad0fbe92a3",
+    "sensor_type": "temperature",
+    "levels": [
+      {
+        "created_at": "1981-04-24T22:00:00.0Z",
+        "value": 71
+      },
+      {
+        "value": 97,
+        "created_at": "2009-03-16T23:00:00.0Z"
+      },
+      {
+        "value": 61,
+        "created_at": "1945-06-23T21:00:00.0Z"
+      },
+      {
+        "created_at": "1946-01-15T23:00:00.0Z",
+        "value": 92
+      },
+      {
+        "value": 72,
+        "created_at": "1953-09-28T23:00:00.0Z"
+      },
+      {
+        "value": 38,
+        "created_at": "1968-04-20T23:00:00.0Z"
+      },
+      {
+        "created_at": "1965-12-01T23:00:00.0Z",
+        "value": 94
+      },
+      {
+        "value": 74,
+        "created_at": "1957-02-26T23:00:00.0Z"
+      },
+      {
+        "value": 32,
+        "created_at": "2016-04-07T22:00:00.0Z"
+      },
+      {
+        "created_at": "1964-06-02T23:00:00.0Z",
+        "value": 65
+      },
+      {
+        "value": 48,
+        "created_at": "1988-05-29T22:00:00.0Z"
+      },
+      {
+        "created_at": "1983-05-21T22:00:00.0Z",
+        "value": 71
+      },
+      {
+        "value": 53,
+        "created_at": "1987-08-30T22:00:00.0Z"
+      },
+      {
+        "created_at": "2006-07-21T22:00:00.0Z",
+        "value": 6
+      },
+      {
+        "value": 67,
+        "created_at": "1952-08-25T23:00:00.0Z"
+      },
+      {
+        "created_at": "1996-10-22T00:00:00.0Z",
+        "value": 53
+      },
+      {
+        "created_at": "2002-02-19T23:00:00.0Z",
+        "value": 31
+      },
+      {
+        "created_at": "2009-01-18T23:00:00.0Z",
+        "value": 95
+      },
+      {
+        "value": 84,
+        "created_at": "1987-06-06T22:00:00.0Z"
+      },
+      {
+        "value": 38,
+        "created_at": "1996-06-18T22:00:00.0Z"
+      }
+    ]
+  },
+  {
+    "sensor_type": "temperature",
+    "id": "078b2d98-fc02-4c89-9d03-0772cc2db370",
+    "levels": [
+      {
+        "value": 59,
+        "created_at": "2007-06-23T22:00:00.0Z"
+      },
+      {
+        "value": 63,
+        "created_at": "1951-09-12T23:00:00.0Z"
+      },
+      {
+        "value": 92,
+        "created_at": "1976-07-26T23:00:00.0Z"
+      },
+      {
+        "created_at": "2000-04-16T22:00:00.0Z",
+        "value": 66
+      },
+      {
+        "created_at": "1993-04-04T22:00:00.0Z",
+        "value": 41
+      },
+      {
+        "value": 15,
+        "created_at": "1977-01-05T23:00:00.0Z"
+      },
+      {
+        "created_at": "1963-09-02T23:00:00.0Z",
+        "value": 51
+      },
+      {
+        "created_at": "1995-03-22T23:00:00.0Z",
+        "value": 72
+      },
+      {
+        "created_at": "1966-07-12T23:00:00.0Z",
+        "value": 69
+      },
+      {
+        "value": 65,
+        "created_at": "1994-02-05T23:00:00.0Z"
+      },
+      {
+        "created_at": "1980-04-11T22:00:00.0Z",
+        "value": 2
+      },
+      {
+        "value": 31,
+        "created_at": "1974-09-22T23:00:00.0Z"
+      },
+      {
+        "value": 32,
+        "created_at": "1944-07-06T22:00:00.0Z"
+      },
+      {
+        "value": 55,
+        "created_at": "2014-08-04T22:00:00.0Z"
+      },
+      {
+        "created_at": "1978-10-28T00:00:00.0Z",
+        "value": 5
+      },
+      {
+        "value": 6,
+        "created_at": "1953-08-08T23:00:00.0Z"
+      },
+      {
+        "created_at": "1974-10-18T00:00:00.0Z",
+        "value": 4
+      },
+      {
+        "value": 39,
+        "created_at": "1949-04-16T22:00:00.0Z"
+      },
+      {
+        "created_at": "1979-07-24T23:00:00.0Z",
+        "value": 39
+      },
+      {
+        "created_at": "1984-01-31T23:00:00.0Z",
+        "value": 36
+      }
+    ],
+    "title": "Cuba"
+  },
+  {
+    "title": "Uruguay",
+    "id": "7002d863-0d01-4741-ad6c-81970c49baa2",
+    "levels": [
+      {
+        "created_at": "1993-07-23T22:00:00.0Z",
+        "value": 29
+      },
+      {
+        "created_at": "1964-10-01T23:00:00.0Z",
+        "value": 5
+      },
+      {
+        "created_at": "1979-10-03T23:00:00.0Z",
+        "value": 80
+      },
+      {
+        "created_at": "1955-07-26T23:00:00.0Z",
+        "value": 94
+      },
+      {
+        "value": 43,
+        "created_at": "1995-06-13T22:00:00.0Z"
+      },
+      {
+        "value": 83,
+        "created_at": "2000-10-31T23:00:00.0Z"
+      },
+      {
+        "value": 83,
+        "created_at": "1993-09-29T23:00:00.0Z"
+      },
+      {
+        "value": 82,
+        "created_at": "2015-10-05T22:00:00.0Z"
+      },
+      {
+        "created_at": "1993-05-25T22:00:00.0Z",
+        "value": 43
+      },
+      {
+        "created_at": "2008-08-17T22:00:00.0Z",
+        "value": 25
+      },
+      {
+        "value": 86,
+        "created_at": "1987-05-30T22:00:00.0Z"
+      },
+      {
+        "created_at": "2001-04-30T22:00:00.0Z",
+        "value": 48
+      },
+      {
+        "value": 42,
+        "created_at": "1996-08-05T22:00:00.0Z"
+      },
+      {
+        "created_at": "1956-10-21T00:00:00.0Z",
+        "value": 26
+      },
+      {
+        "created_at": "2002-09-29T22:00:00.0Z",
+        "value": 19
+      },
+      {
+        "created_at": "2014-05-30T22:00:00.0Z",
+        "value": 3
+      },
+      {
+        "created_at": "2001-10-28T00:00:00.0Z",
+        "value": 88
+      },
+      {
+        "created_at": "1968-01-12T23:00:00.0Z",
+        "value": 67
+      },
+      {
+        "value": 97,
+        "created_at": "2019-01-29T23:00:00.0Z"
+      },
+      {
+        "created_at": "2021-04-07T22:00:00.0Z",
+        "value": 75
+      }
+    ],
+    "sensor_type": "humidity"
+  },
+  {
+    "sensor_type": "temperature",
+    "title": "Gibraltar",
+    "id": "13296951-8dd0-43f1-95aa-b685f2d74faa",
+    "levels": [
+      {
+        "value": 38,
+        "created_at": "2017-11-25T00:00:00.0Z"
+      },
+      {
+        "value": 85,
+        "created_at": "1994-10-30T00:00:00.0Z"
+      },
+      {
+        "created_at": "1953-12-31T23:00:00.0Z",
+        "value": 63
+      },
+      {
+        "value": 78,
+        "created_at": "2017-04-11T22:00:00.0Z"
+      },
+      {
+        "value": 10,
+        "created_at": "1947-11-18T00:00:00.0Z"
+      },
+      {
+        "created_at": "1981-06-15T22:00:00.0Z",
+        "value": 26
+      },
+      {
+        "created_at": "2020-09-11T22:00:00.0Z",
+        "value": 47
+      },
+      {
+        "value": 70,
+        "created_at": "1956-12-31T00:00:00.0Z"
+      },
+      {
+        "created_at": "1966-10-27T00:00:00.0Z",
+        "value": 10
+      },
+      {
+        "created_at": "1969-12-08T23:00:00.0Z",
+        "value": 5
+      },
+      {
+        "value": 72,
+        "created_at": "1981-09-07T22:00:00.0Z"
+      },
+      {
+        "value": 14,
+        "created_at": "1996-02-04T23:00:00.0Z"
+      },
+      {
+        "value": 82,
+        "created_at": "1962-02-08T23:00:00.0Z"
+      },
+      {
+        "created_at": "1993-05-02T22:00:00.0Z",
+        "value": 79
+      },
+      {
+        "created_at": "1981-11-14T00:00:00.0Z",
+        "value": 42
+      },
+      {
+        "value": 10,
+        "created_at": "1943-10-01T22:00:00.0Z"
+      },
+      {
+        "created_at": "1982-05-24T22:00:00.0Z",
+        "value": 71
+      },
+      {
+        "value": 68,
+        "created_at": "1964-08-22T23:00:00.0Z"
+      },
+      {
+        "value": 6,
+        "created_at": "1952-03-29T23:00:00.0Z"
+      },
+      {
+        "created_at": "1972-02-29T23:00:00.0Z",
+        "value": 50
+      }
+    ]
+  },
+  {
+    "id": "57754f35-927c-4c9a-a43b-14ced5a99fe9",
+    "levels": [
+      {
+        "created_at": "1991-10-20T00:00:00.0Z",
+        "value": 5
+      },
+      {
+        "value": 54,
+        "created_at": "1987-09-30T23:00:00.0Z"
+      },
+      {
+        "value": 16,
+        "created_at": "2017-06-03T22:00:00.0Z"
+      },
+      {
+        "created_at": "2010-10-11T00:00:00.0Z",
+        "value": 45
+      },
+      {
+        "created_at": "1950-03-16T23:00:00.0Z",
+        "value": 44
+      },
+      {
+        "value": 29,
+        "created_at": "1988-05-25T22:00:00.0Z"
+      },
+      {
+        "created_at": "1964-04-04T23:00:00.0Z",
+        "value": 48
+      },
+      {
+        "value": 66,
+        "created_at": "1968-06-22T23:00:00.0Z"
+      },
+      {
+        "value": 86,
+        "created_at": "1957-06-29T23:00:00.0Z"
+      },
+      {
+        "value": 22,
+        "created_at": "2006-10-31T00:00:00.0Z"
+      },
+      {
+        "value": 59,
+        "created_at": "2000-05-26T22:00:00.0Z"
+      },
+      {
+        "created_at": "1952-06-16T23:00:00.0Z",
+        "value": 82
+      },
+      {
+        "created_at": "1982-07-12T22:00:00.0Z",
+        "value": 76
+      },
+      {
+        "created_at": "1978-03-09T23:00:00.0Z",
+        "value": 28
+      },
+      {
+        "created_at": "1990-02-15T23:00:00.0Z",
+        "value": 89
+      },
+      {
+        "created_at": "1949-11-30T00:00:00.0Z",
+        "value": 6
+      },
+      {
+        "value": 19,
+        "created_at": "2005-04-14T22:00:00.0Z"
+      },
+      {
+        "created_at": "1962-10-17T00:00:00.0Z",
+        "value": 15
+      },
+      {
+        "created_at": "1947-05-23T21:00:00.0Z",
+        "value": 76
+      },
+      {
+        "created_at": "1948-08-09T22:00:00.0Z",
+        "value": 19
+      }
+    ],
+    "title": "Uganda",
+    "sensor_type": "temperature"
+  },
+  {
+    "sensor_type": "humidity",
+    "id": "e6bf8507-ec3e-4fec-9474-3203f65c17e9",
+    "levels": [
+      {
+        "value": 22,
+        "created_at": "1973-10-13T00:00:00.0Z"
+      },
+      {
+        "value": 88,
+        "created_at": "1973-08-17T23:00:00.0Z"
+      },
+      {
+        "value": 37,
+        "created_at": "1997-06-14T22:00:00.0Z"
+      },
+      {
+        "value": 34,
+        "created_at": "2010-11-24T00:00:00.0Z"
+      },
+      {
+        "value": 54,
+        "created_at": "1945-06-10T21:00:00.0Z"
+      },
+      {
+        "created_at": "1976-11-19T00:00:00.0Z",
+        "value": 76
+      },
+      {
+        "value": 21,
+        "created_at": "1961-01-08T23:00:00.0Z"
+      },
+      {
+        "created_at": "2012-03-28T22:00:00.0Z",
+        "value": 5
+      },
+      {
+        "created_at": "2010-01-15T23:00:00.0Z",
+        "value": 74
+      },
+      {
+        "created_at": "1983-02-26T23:00:00.0Z",
+        "value": 6
+      },
+      {
+        "value": 55,
+        "created_at": "2015-01-15T23:00:00.0Z"
+      },
+      {
+        "value": 79,
+        "created_at": "1969-09-08T23:00:00.0Z"
+      },
+      {
+        "created_at": "2013-09-10T22:00:00.0Z",
+        "value": 35
+      },
+      {
+        "value": 24,
+        "created_at": "2003-06-14T22:00:00.0Z"
+      },
+      {
+        "created_at": "1976-02-08T23:00:00.0Z",
+        "value": 39
+      },
+      {
+        "value": 79,
+        "created_at": "1986-10-25T00:00:00.0Z"
+      },
+      {
+        "value": 21,
+        "created_at": "2002-05-27T22:00:00.0Z"
+      },
+      {
+        "created_at": "2011-06-03T22:00:00.0Z",
+        "value": 36
+      },
+      {
+        "created_at": "2005-12-15T00:00:00.0Z",
+        "value": 43
+      },
+      {
+        "value": 36,
+        "created_at": "1965-01-18T23:00:00.0Z"
+      }
+    ],
+    "title": "Slovenia"
+  },
+  {
+    "sensor_type": "temperature",
+    "title": "Togo",
+    "id": "41f95b43-3b2f-42a1-8710-15efac46e119",
+    "levels": [
+      {
+        "created_at": "1988-10-23T00:00:00.0Z",
+        "value": 28
+      },
+      {
+        "created_at": "1951-03-26T23:00:00.0Z",
+        "value": 58
+      },
+      {
+        "created_at": "2012-08-02T22:00:00.0Z",
+        "value": 97
+      },
+      {
+        "created_at": "1981-10-21T00:00:00.0Z",
+        "value": 8
+      },
+      {
+        "created_at": "1968-12-29T00:00:00.0Z",
+        "value": 52
+      },
+      {
+        "value": 89,
+        "created_at": "1959-11-24T00:00:00.0Z"
+      },
+      {
+        "value": 43,
+        "created_at": "1973-07-24T23:00:00.0Z"
+      },
+      {
+        "created_at": "1960-01-25T23:00:00.0Z",
+        "value": 10
+      },
+      {
+        "created_at": "1944-12-31T23:00:00.0Z",
+        "value": 12
+      },
+      {
+        "created_at": "1998-07-29T22:00:00.0Z",
+        "value": 98
+      },
+      {
+        "created_at": "2003-10-24T00:00:00.0Z",
+        "value": 100
+      },
+      {
+        "value": 50,
+        "created_at": "2012-11-11T00:00:00.0Z"
+      },
+      {
+        "created_at": "1968-04-08T23:00:00.0Z",
+        "value": 99
+      },
+      {
+        "value": 73,
+        "created_at": "2020-11-20T00:00:00.0Z"
+      },
+      {
+        "created_at": "2010-03-24T23:00:00.0Z",
+        "value": 65
+      },
+      {
+        "value": 58,
+        "created_at": "2013-09-25T22:00:00.0Z"
+      },
+      {
+        "value": 31,
+        "created_at": "1981-02-08T23:00:00.0Z"
+      },
+      {
+        "value": 14,
+        "created_at": "1956-01-12T23:00:00.0Z"
+      },
+      {
+        "value": 93,
+        "created_at": "2018-08-29T22:00:00.0Z"
+      },
+      {
+        "created_at": "1997-07-17T22:00:00.0Z",
+        "value": 12
+      }
+    ]
+  },
+  {
+    "levels": [
+      {
+        "created_at": "1991-03-23T23:00:00.0Z",
+        "value": 40
+      },
+      {
+        "value": 51,
+        "created_at": "1985-06-13T22:00:00.0Z"
+      },
+      {
+        "created_at": "2010-07-30T22:00:00.0Z",
+        "value": 16
+      },
+      {
+        "created_at": "1987-07-11T22:00:00.0Z",
+        "value": 6
+      },
+      {
+        "created_at": "1999-04-13T22:00:00.0Z",
+        "value": 85
+      },
+      {
+        "value": 23,
+        "created_at": "1962-08-01T23:00:00.0Z"
+      },
+      {
+        "created_at": "1988-09-26T23:00:00.0Z",
+        "value": 96
+      },
+      {
+        "value": 100,
+        "created_at": "1973-02-14T23:00:00.0Z"
+      },
+      {
+        "created_at": "2000-08-09T22:00:00.0Z",
+        "value": 63
+      },
+      {
+        "value": 21,
+        "created_at": "1997-06-16T22:00:00.0Z"
+      },
+      {
+        "created_at": "1970-11-20T00:00:00.0Z",
+        "value": 8
+      },
+      {
+        "created_at": "1991-06-23T22:00:00.0Z",
+        "value": 67
+      },
+      {
+        "value": 32,
+        "created_at": "1942-08-10T22:00:00.0Z"
+      },
+      {
+        "created_at": "1997-11-29T00:00:00.0Z",
+        "value": 97
+      },
+      {
+        "created_at": "1944-10-06T23:00:00.0Z",
+        "value": 93
+      },
+      {
+        "value": 3,
+        "created_at": "1949-07-26T22:00:00.0Z"
+      },
+      {
+        "created_at": "1975-11-29T00:00:00.0Z",
+        "value": 82
+      },
+      {
+        "created_at": "1990-06-01T22:00:00.0Z",
+        "value": 83
+      },
+      {
+        "value": 79,
+        "created_at": "1944-08-31T22:00:00.0Z"
+      },
+      {
+        "value": 90,
+        "created_at": "1967-04-28T23:00:00.0Z"
+      }
+    ],
+    "sensor_type": "humidity",
+    "id": "75aebed0-e45e-42cf-b459-9f7ce104501b",
+    "title": "Guinea-Bissau"
+  },
+  {
+    "id": "f25da920-c2b9-47f3-a58d-3c7537cf34e6",
+    "sensor_type": "temperature",
+    "levels": [
+      {
+        "created_at": "1974-11-23T00:00:00.0Z",
+        "value": 17
+      },
+      {
+        "created_at": "1966-04-19T23:00:00.0Z",
+        "value": 39
+      },
+      {
+        "value": 68,
+        "created_at": "2004-05-27T22:00:00.0Z"
+      },
+      {
+        "created_at": "2005-07-13T22:00:00.0Z",
+        "value": 13
+      },
+      {
+        "created_at": "2002-09-25T22:00:00.0Z",
+        "value": 7
+      },
+      {
+        "created_at": "1954-03-14T23:00:00.0Z",
+        "value": 38
+      },
+      {
+        "created_at": "1962-06-10T23:00:00.0Z",
+        "value": 29
+      },
+      {
+        "created_at": "2020-06-10T22:00:00.0Z",
+        "value": 47
+      },
+      {
+        "value": 0,
+        "created_at": "2020-05-04T22:00:00.0Z"
+      },
+      {
+        "created_at": "1988-04-02T22:00:00.0Z",
+        "value": 95
+      },
+      {
+        "created_at": "1967-02-16T23:00:00.0Z",
+        "value": 15
+      },
+      {
+        "value": 56,
+        "created_at": "1996-09-13T22:00:00.0Z"
+      },
+      {
+        "created_at": "1983-03-21T23:00:00.0Z",
+        "value": 85
+      },
+      {
+        "created_at": "1972-06-04T23:00:00.0Z",
+        "value": 35
+      },
+      {
+        "created_at": "2009-12-12T00:00:00.0Z",
+        "value": 21
+      },
+      {
+        "created_at": "1984-03-19T23:00:00.0Z",
+        "value": 15
+      },
+      {
+        "value": 24,
+        "created_at": "2015-05-06T22:00:00.0Z"
+      },
+      {
+        "value": 19,
+        "created_at": "2014-08-03T22:00:00.0Z"
+      },
+      {
+        "value": 23,
+        "created_at": "1988-02-13T23:00:00.0Z"
+      },
+      {
+        "created_at": "1942-11-05T23:00:00.0Z",
+        "value": 38
+      }
+    ],
+    "title": "Guam"
+  },
+  {
+    "sensor_type": "temperature",
+    "title": "Armenia",
+    "levels": [
+      {
+        "created_at": "1963-07-30T23:00:00.0Z",
+        "value": 90
+      },
+      {
+        "created_at": "2003-02-25T23:00:00.0Z",
+        "value": 49
+      },
+      {
+        "value": 79,
+        "created_at": "1949-07-09T22:00:00.0Z"
+      },
+      {
+        "created_at": "2009-10-04T22:00:00.0Z",
+        "value": 83
+      },
+      {
+        "created_at": "1956-01-06T23:00:00.0Z",
+        "value": 79
+      },
+      {
+        "created_at": "1986-04-13T22:00:00.0Z",
+        "value": 77
+      },
+      {
+        "value": 5,
+        "created_at": "1963-11-16T00:00:00.0Z"
+      },
+      {
+        "value": 93,
+        "created_at": "1996-10-07T22:00:00.0Z"
+      },
+      {
+        "created_at": "1981-02-23T23:00:00.0Z",
+        "value": 66
+      },
+      {
+        "value": 35,
+        "created_at": "2015-12-05T23:00:00.0Z"
+      },
+      {
+        "created_at": "2007-11-29T00:00:00.0Z",
+        "value": 87
+      },
+      {
+        "created_at": "1994-03-28T22:00:00.0Z",
+        "value": 94
+      },
+      {
+        "value": 16,
+        "created_at": "2008-06-03T22:00:00.0Z"
+      },
+      {
+        "value": 63,
+        "created_at": "1961-07-24T23:00:00.0Z"
+      },
+      {
+        "value": 73,
+        "created_at": "1966-06-26T23:00:00.0Z"
+      },
+      {
+        "created_at": "1945-05-06T22:00:00.0Z",
+        "value": 32
+      },
+      {
+        "created_at": "1989-08-07T22:00:00.0Z",
+        "value": 59
+      },
+      {
+        "created_at": "1984-03-15T23:00:00.0Z",
+        "value": 44
+      },
+      {
+        "created_at": "1971-03-09T23:00:00.0Z",
+        "value": 48
+      },
+      {
+        "created_at": "2015-01-19T23:00:00.0Z",
+        "value": 71
+      }
+    ],
+    "id": "022d2db9-707b-4260-a8bb-83ceb1cca789"
+  },
+  {
+    "id": "837b2fbf-dbe2-4565-9c4f-af92c5e753ea",
+    "title": "Kuwait",
+    "sensor_type": "humidity",
+    "levels": [
+      {
+        "created_at": "2021-04-07T22:00:00.0Z",
+        "value": 93
+      },
+      {
+        "value": 69,
+        "created_at": "1951-12-15T00:00:00.0Z"
+      },
+      {
+        "created_at": "1944-01-31T23:00:00.0Z",
+        "value": 2
+      },
+      {
+        "created_at": "1999-01-16T23:00:00.0Z",
+        "value": 21
+      },
+      {
+        "value": 77,
+        "created_at": "1990-12-14T00:00:00.0Z"
+      },
+      {
+        "value": 24,
+        "created_at": "1978-01-22T23:00:00.0Z"
+      },
+      {
+        "created_at": "1961-09-09T23:00:00.0Z",
+        "value": 39
+      },
+      {
+        "created_at": "1952-06-04T23:00:00.0Z",
+        "value": 8
+      },
+      {
+        "value": 90,
+        "created_at": "2001-07-06T22:00:00.0Z"
+      },
+      {
+        "created_at": "1945-09-12T21:00:00.0Z",
+        "value": 89
+      },
+      {
+        "created_at": "1996-12-02T23:00:00.0Z",
+        "value": 45
+      },
+      {
+        "created_at": "2019-01-02T23:00:00.0Z",
+        "value": 69
+      },
+      {
+        "value": 65,
+        "created_at": "1996-05-06T22:00:00.0Z"
+      },
+      {
+        "value": 27,
+        "created_at": "1949-11-14T00:00:00.0Z"
+      },
+      {
+        "created_at": "1980-07-19T22:00:00.0Z",
+        "value": 49
+      },
+      {
+        "created_at": "1993-10-20T00:00:00.0Z",
+        "value": 11
+      },
+      {
+        "value": 29,
+        "created_at": "1991-05-02T22:00:00.0Z"
+      },
+      {
+        "value": 85,
+        "created_at": "2008-10-25T00:00:00.0Z"
+      },
+      {
+        "value": 58,
+        "created_at": "2021-02-04T23:00:00.0Z"
+      },
+      {
+        "value": 48,
+        "created_at": "1954-08-20T23:00:00.0Z"
+      }
+    ]
+  },
+  {
+    "levels": [
+      {
+        "created_at": "1971-11-30T23:00:00.0Z",
+        "value": 76
+      },
+      {
+        "created_at": "1997-04-24T22:00:00.0Z",
+        "value": 33
+      },
+      {
+        "value": 25,
+        "created_at": "2018-10-14T00:00:00.0Z"
+      },
+      {
+        "value": 21,
+        "created_at": "1979-09-24T23:00:00.0Z"
+      },
+      {
+        "value": 6,
+        "created_at": "1987-09-26T22:00:00.0Z"
+      },
+      {
+        "created_at": "2000-12-30T00:00:00.0Z",
+        "value": 74
+      },
+      {
+        "value": 19,
+        "created_at": "2009-10-28T00:00:00.0Z"
+      },
+      {
+        "value": 10,
+        "created_at": "1943-05-24T22:00:00.0Z"
+      },
+      {
+        "created_at": "1982-04-13T22:00:00.0Z",
+        "value": 41
+      },
+      {
+        "created_at": "1958-11-21T00:00:00.0Z",
+        "value": 83
+      },
+      {
+        "value": 98,
+        "created_at": "1985-03-19T23:00:00.0Z"
+      },
+      {
+        "value": 69,
+        "created_at": "1992-12-23T00:00:00.0Z"
+      },
+      {
+        "value": 10,
+        "created_at": "2013-04-19T22:00:00.0Z"
+      },
+      {
+        "created_at": "2005-09-22T22:00:00.0Z",
+        "value": 50
+      },
+      {
+        "created_at": "1960-01-31T23:00:00.0Z",
+        "value": 26
+      },
+      {
+        "value": 70,
+        "created_at": "1972-07-07T23:00:00.0Z"
+      },
+      {
+        "created_at": "2020-05-23T22:00:00.0Z",
+        "value": 44
+      },
+      {
+        "value": 20,
+        "created_at": "1958-03-07T23:00:00.0Z"
+      },
+      {
+        "value": 5,
+        "created_at": "1962-08-11T23:00:00.0Z"
+      },
+      {
+        "value": 41,
+        "created_at": "1978-04-09T23:00:00.0Z"
+      }
+    ],
+    "id": "d0bfc067-2c15-464a-a77e-e3d147ce99f8",
+    "sensor_type": "temperature",
+    "title": "Cook Islands"
+  },
+  {
+    "id": "6aaee5e4-91af-4ac1-9a37-a6e534286419",
+    "title": "Mexico",
+    "sensor_type": "humidity",
+    "levels": [
+      {
+        "created_at": "1964-11-03T23:00:00.0Z",
+        "value": 96
+      },
+      {
+        "value": 9,
+        "created_at": "1991-10-14T00:00:00.0Z"
+      },
+      {
+        "value": 83,
+        "created_at": "2000-08-03T22:00:00.0Z"
+      },
+      {
+        "value": 65,
+        "created_at": "2017-10-24T00:00:00.0Z"
+      },
+      {
+        "value": 59,
+        "created_at": "1974-09-13T23:00:00.0Z"
+      },
+      {
+        "value": 23,
+        "created_at": "1948-11-04T23:00:00.0Z"
+      },
+      {
+        "value": 17,
+        "created_at": "2010-11-10T00:00:00.0Z"
+      },
+      {
+        "value": 76,
+        "created_at": "1998-08-29T22:00:00.0Z"
+      },
+      {
+        "value": 29,
+        "created_at": "2006-10-13T00:00:00.0Z"
+      },
+      {
+        "created_at": "2018-04-14T22:00:00.0Z",
+        "value": 95
+      },
+      {
+        "value": 6,
+        "created_at": "1957-08-09T23:00:00.0Z"
+      },
+      {
+        "value": 57,
+        "created_at": "1994-08-06T22:00:00.0Z"
+      },
+      {
+        "created_at": "1995-11-07T23:00:00.0Z",
+        "value": 18
+      },
+      {
+        "created_at": "1977-04-16T23:00:00.0Z",
+        "value": 37
+      },
+      {
+        "value": 99,
+        "created_at": "1959-07-07T23:00:00.0Z"
+      },
+      {
+        "value": 86,
+        "created_at": "1962-06-28T23:00:00.0Z"
+      },
+      {
+        "created_at": "2010-02-27T23:00:00.0Z",
+        "value": 80
+      },
+      {
+        "created_at": "1972-05-15T23:00:00.0Z",
+        "value": 65
+      },
+      {
+        "created_at": "1988-09-06T22:00:00.0Z",
+        "value": 18
+      },
+      {
+        "created_at": "1982-06-27T22:00:00.0Z",
+        "value": 87
+      }
+    ]
+  },
+  {
+    "sensor_type": "temperature",
+    "id": "58088223-3e4a-45b0-bd56-d718ad5e11f0",
+    "title": "Seychelles",
+    "levels": [
+      {
+        "created_at": "2000-07-25T22:00:00.0Z",
+        "value": 48
+      },
+      {
+        "value": 98,
+        "created_at": "2006-12-21T00:00:00.0Z"
+      },
+      {
+        "created_at": "1974-10-06T23:00:00.0Z",
+        "value": 20
+      },
+      {
+        "created_at": "2011-08-08T22:00:00.0Z",
+        "value": 7
+      },
+      {
+        "value": 52,
+        "created_at": "1982-10-02T23:00:00.0Z"
+      },
+      {
+        "value": 4,
+        "created_at": "1976-04-11T23:00:00.0Z"
+      },
+      {
+        "value": 63,
+        "created_at": "1963-07-18T23:00:00.0Z"
+      },
+      {
+        "created_at": "2016-04-30T22:00:00.0Z",
+        "value": 38
+      },
+      {
+        "created_at": "1948-03-09T23:00:00.0Z",
+        "value": 44
+      },
+      {
+        "created_at": "1990-04-17T22:00:00.0Z",
+        "value": 8
+      },
+      {
+        "created_at": "1963-11-27T00:00:00.0Z",
+        "value": 20
+      },
+      {
+        "created_at": "1960-01-08T23:00:00.0Z",
+        "value": 20
+      },
+      {
+        "created_at": "1948-10-25T00:00:00.0Z",
+        "value": 7
+      },
+      {
+        "created_at": "2017-07-01T22:00:00.0Z",
+        "value": 51
+      },
+      {
+        "created_at": "1974-09-29T23:00:00.0Z",
+        "value": 78
+      },
+      {
+        "created_at": "1945-05-25T21:00:00.0Z",
+        "value": 39
+      },
+      {
+        "created_at": "1982-08-12T22:00:00.0Z",
+        "value": 41
+      },
+      {
+        "value": 96,
+        "created_at": "2007-09-02T22:00:00.0Z"
+      },
+      {
+        "value": 58,
+        "created_at": "1996-07-31T22:00:00.0Z"
+      },
+      {
+        "value": 5,
+        "created_at": "1955-12-22T00:00:00.0Z"
+      }
+    ]
+  },
+  {
+    "sensor_type": "temperature",
+    "id": "e0a1a04c-2bbb-41ba-b51d-0e1022aa1ec1",
+    "levels": [
+      {
+        "value": 58,
+        "created_at": "1975-12-31T00:00:00.0Z"
+      },
+      {
+        "created_at": "1948-06-17T22:00:00.0Z",
+        "value": 31
+      },
+      {
+        "created_at": "2003-10-11T00:00:00.0Z",
+        "value": 9
+      },
+      {
+        "value": 94,
+        "created_at": "1961-09-24T23:00:00.0Z"
+      },
+      {
+        "value": 54,
+        "created_at": "1994-09-11T22:00:00.0Z"
+      },
+      {
+        "value": 51,
+        "created_at": "1945-12-13T00:00:00.0Z"
+      },
+      {
+        "created_at": "1973-02-21T23:00:00.0Z",
+        "value": 1
+      },
+      {
+        "created_at": "1975-06-06T23:00:00.0Z",
+        "value": 39
+      },
+      {
+        "created_at": "1970-02-12T23:00:00.0Z",
+        "value": 20
+      },
+      {
+        "value": 36,
+        "created_at": "1979-01-11T23:00:00.0Z"
+      },
+      {
+        "created_at": "2020-08-16T22:00:00.0Z",
+        "value": 45
+      },
+      {
+        "created_at": "2004-08-06T22:00:00.0Z",
+        "value": 73
+      },
+      {
+        "created_at": "2015-01-22T23:00:00.0Z",
+        "value": 56
+      },
+      {
+        "created_at": "1949-05-27T22:00:00.0Z",
+        "value": 4
+      },
+      {
+        "created_at": "1982-06-23T22:00:00.0Z",
+        "value": 97
+      },
+      {
+        "value": 87,
+        "created_at": "2009-06-13T22:00:00.0Z"
+      },
+      {
+        "created_at": "1958-03-01T23:00:00.0Z",
+        "value": 50
+      },
+      {
+        "value": 67,
+        "created_at": "1969-02-04T23:00:00.0Z"
+      },
+      {
+        "value": 24,
+        "created_at": "2007-10-05T22:00:00.0Z"
+      },
+      {
+        "created_at": "1980-08-05T22:00:00.0Z",
+        "value": 30
+      }
+    ],
+    "title": "Saint Pierre and Miq"
+  },
+  {
+    "sensor_type": "temperature",
+    "levels": [
+      {
+        "created_at": "1955-11-30T23:00:00.0Z",
+        "value": 25
+      },
+      {
+        "created_at": "1998-03-20T23:00:00.0Z",
+        "value": 55
+      },
+      {
+        "created_at": "2007-02-06T23:00:00.0Z",
+        "value": 14
+      },
+      {
+        "created_at": "2016-10-04T22:00:00.0Z",
+        "value": 79
+      },
+      {
+        "value": 85,
+        "created_at": "2007-04-10T22:00:00.0Z"
+      },
+      {
+        "created_at": "2011-07-01T22:00:00.0Z",
+        "value": 43
+      },
+      {
+        "created_at": "1974-09-01T23:00:00.0Z",
+        "value": 61
+      },
+      {
+        "value": 51,
+        "created_at": "1944-10-31T23:00:00.0Z"
+      },
+      {
+        "created_at": "1962-11-28T00:00:00.0Z",
+        "value": 79
+      },
+      {
+        "value": 23,
+        "created_at": "1974-05-04T23:00:00.0Z"
+      },
+      {
+        "value": 93,
+        "created_at": "1967-03-31T23:00:00.0Z"
+      },
+      {
+        "value": 89,
+        "created_at": "2011-10-16T00:00:00.0Z"
+      },
+      {
+        "value": 96,
+        "created_at": "1966-01-12T23:00:00.0Z"
+      },
+      {
+        "value": 2,
+        "created_at": "2005-05-01T22:00:00.0Z"
+      },
+      {
+        "created_at": "2020-10-23T00:00:00.0Z",
+        "value": 0
+      },
+      {
+        "created_at": "1947-04-14T22:00:00.0Z",
+        "value": 64
+      },
+      {
+        "created_at": "1947-06-26T21:00:00.0Z",
+        "value": 53
+      },
+      {
+        "created_at": "1976-04-10T23:00:00.0Z",
+        "value": 43
+      },
+      {
+        "value": 48,
+        "created_at": "1986-12-01T23:00:00.0Z"
+      },
+      {
+        "value": 69,
+        "created_at": "2004-05-03T22:00:00.0Z"
+      }
+    ],
+    "title": "Tonga",
+    "id": "99d6fd5c-567f-4a09-a8bc-301d8c523804"
+  },
+  {
+    "id": "c696692b-67c0-4d65-9271-21eba0a0759d",
+    "levels": [
+      {
+        "value": 85,
+        "created_at": "1953-12-02T23:00:00.0Z"
+      },
+      {
+        "value": 15,
+        "created_at": "2011-02-09T23:00:00.0Z"
+      },
+      {
+        "value": 15,
+        "created_at": "1976-10-24T00:00:00.0Z"
+      },
+      {
+        "value": 11,
+        "created_at": "1989-11-05T23:00:00.0Z"
+      },
+      {
+        "created_at": "1967-12-08T23:00:00.0Z",
+        "value": 84
+      },
+      {
+        "value": 57,
+        "created_at": "1986-11-17T00:00:00.0Z"
+      },
+      {
+        "value": 9,
+        "created_at": "1948-11-14T00:00:00.0Z"
+      },
+      {
+        "created_at": "1965-09-08T23:00:00.0Z",
+        "value": 6
+      },
+      {
+        "value": 40,
+        "created_at": "2019-02-04T23:00:00.0Z"
+      },
+      {
+        "value": 80,
+        "created_at": "1957-01-15T23:00:00.0Z"
+      },
+      {
+        "value": 48,
+        "created_at": "1968-10-01T23:00:00.0Z"
+      },
+      {
+        "value": 16,
+        "created_at": "2012-11-12T00:00:00.0Z"
+      },
+      {
+        "value": 50,
+        "created_at": "1995-04-25T22:00:00.0Z"
+      },
+      {
+        "value": 91,
+        "created_at": "1984-08-09T22:00:00.0Z"
+      },
+      {
+        "value": 57,
+        "created_at": "2002-11-11T00:00:00.0Z"
+      },
+      {
+        "value": 74,
+        "created_at": "2017-12-19T00:00:00.0Z"
+      },
+      {
+        "value": 86,
+        "created_at": "2020-05-04T22:00:00.0Z"
+      },
+      {
+        "value": 14,
+        "created_at": "1986-04-19T22:00:00.0Z"
+      },
+      {
+        "value": 64,
+        "created_at": "1963-01-31T23:00:00.0Z"
+      },
+      {
+        "value": 81,
+        "created_at": "1979-07-28T23:00:00.0Z"
+      }
+    ],
+    "sensor_type": "humidity",
+    "title": "Andorra"
+  }
+]

@@ -6,8 +6,8 @@ import AuthorizedLayout from "@/layouts/AuthorizedLayout.vue";
 const routes: Array<RouteRecordRaw> = [
   {
     path: "/",
-    name: "home",
-    component: () => import("@/views/HomeView.vue"),
+    name: "dashboard",
+    component: () => import("@/views/DashboardView.vue"),
     meta: { layout: AuthorizedLayout },
   },
   {
@@ -15,6 +15,10 @@ const routes: Array<RouteRecordRaw> = [
     name: "device",
     component: () => import("@/views/DeviceView.vue"),
     meta: { layout: AuthorizedLayout },
+  },
+  {
+    path: "/:pathMatch(.*)*",
+    redirect: "/",
   },
 ];
 

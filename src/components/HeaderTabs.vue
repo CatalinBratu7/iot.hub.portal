@@ -2,7 +2,10 @@
   <div class="hidden sm:block text-md font-medium text-center">
     <ul class="flex">
       <li class="mr-2">
-        <router-link to="/" class="inline-block p-4 border-b-4 border-green">
+        <router-link
+          :to="{ name: 'dashboard' }"
+          class="inline-block p-4 border-b-4 border-green"
+        >
           Devices
         </router-link>
       </li>

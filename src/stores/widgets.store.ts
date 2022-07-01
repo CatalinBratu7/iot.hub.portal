@@ -1,6 +1,6 @@
 import { defineStore } from "pinia";
-import WidgetsService from "../services/widgets.service.js";
-import type { Widgets } from "../types.js";
+import WidgetsService from "../services/widgets.service";
+import type { Widgets } from "../types";
 
 export const useWidgetsStore = defineStore("widgets", {
   state: () => ({
@@ -8,9 +8,8 @@ export const useWidgetsStore = defineStore("widgets", {
   }),
   actions: {
     async getWidgets() {
-      WidgetsService.getWidgets().then((response) => {
-        this.widgets = response.data;
-      });
+      const response = await WidgetsService.getWidgets();
+      this.widgets = response.data;
     },
   },
 });

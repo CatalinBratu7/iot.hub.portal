@@ -53,7 +53,7 @@
               </div>
             </template>
             <template v-else>
-              {{ device[column] }}
+              {{ getDevicePropertyByKey(device, column) }}
             </template>
           </td>
         </tr>
@@ -63,8 +63,8 @@
   </div>
 </template>
 <script setup lang="ts">
-import { onBeforeRouteLeave } from "vue-router";
 import { useDevicesStore } from "../stores/devices.store";
+import type { Device } from "../types";
 
 import BaseCard from "@/components/BaseCard.vue";
 import BaseTable from "@/components/BaseTable.vue";
@@ -77,7 +77,7 @@ const columns = ["name", "charge", "firmware_version", "active"];
 const devicesStore = useDevicesStore();
 devicesStore.getDevices();
 
-onBeforeRouteLeave(() => {
-  devicesStore.$patch({ devices: [] });
-});
+const getDevicePropertyByKey = (device: Device, key: string) => {
+  return device[key as keyof typeof device];
+};
 </script>
