@@ -8,11 +8,20 @@
 </template>
 
 <script setup lang="ts">
-import { useRoute } from "vue-router";
+import { onMounted } from "vue";
+import { onBeforeRouteLeave, useRoute } from "vue-router";
+import { useDevicesStore } from "../stores/devices.store";
 
 import StatusWidgets from "@/components/StatusWidgets.vue";
 
 const route = useRoute();
+const devicesStore = useDevicesStore();
 
-console.log(route.params.id);
+onMounted(() => {
+  devicesStore.getDevice(route.params.id as string);
+});
+
+onBeforeRouteLeave(() => {
+  devicesStore.$patch({ device: {} });
+});
 </script>

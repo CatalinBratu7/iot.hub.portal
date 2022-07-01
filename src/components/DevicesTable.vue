@@ -63,6 +63,7 @@
   </div>
 </template>
 <script setup lang="ts">
+import { onBeforeRouteLeave } from "vue-router";
 import { useDevicesStore } from "../stores/devices.store";
 
 import BaseCard from "@/components/BaseCard.vue";
@@ -75,4 +76,8 @@ const columns = ["name", "charge", "firmware_version", "active"];
 
 const devicesStore = useDevicesStore();
 devicesStore.getDevices();
+
+onBeforeRouteLeave(() => {
+  devicesStore.$patch({ devices: [] });
+});
 </script>
