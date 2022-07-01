@@ -2,9 +2,9 @@
   <div class="hidden sm:block text-md font-medium text-center">
     <ul class="flex">
       <li class="mr-2">
-        <a href="#" class="inline-block p-4 border-b-4 border-green">
+        <router-link to="/" class="inline-block p-4 border-b-4 border-green">
           Devices
-        </a>
+        </router-link>
       </li>
       <li class="mr-2">
         <a
