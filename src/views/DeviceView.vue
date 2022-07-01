@@ -6,6 +6,13 @@
     <div class="md:col-span-3">
       <div class="flex flex-col gap-8">
         <DeviceCard />
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+          <div class="col-span-1">[Battery View]</div>
+          <div class="flex flex-col gap-8 col-span-1">
+            <div class="">[Humidity View]</div>
+            <div class="">[Temperature View]</div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
