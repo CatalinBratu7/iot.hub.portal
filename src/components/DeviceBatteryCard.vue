@@ -27,11 +27,11 @@
 </template>
 
 <script setup lang="ts">
+import { computed } from "vue";
 import { useDevicesStore } from "../stores/devices.store";
 
 import BaseCard from "@/components/BaseCard.vue";
 import BatteryIcon from "@/components/BatteryIcon.vue";
-import { computed } from "vue";
 
 const devicesStore = useDevicesStore();
 
