@@ -10,6 +10,12 @@ const routes: Array<RouteRecordRaw> = [
     component: () => import("@/views/HomeView.vue"),
     meta: { layout: AuthorizedLayout },
   },
+  {
+    path: "/device/:id",
+    name: "device",
+    component: () => import("@/views/DeviceView.vue"),
+    meta: { layout: AuthorizedLayout },
+  },
 ];
 
 const router = createRouter({

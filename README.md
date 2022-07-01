@@ -22,4 +22,3 @@ Management tool for smart devices
 
 * Code builds with no errors
 * Devices list and device details are viewable
-* User can add a new device

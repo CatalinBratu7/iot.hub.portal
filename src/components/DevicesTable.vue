@@ -14,9 +14,10 @@
     </template>
     <template #body>
       <tr
-        class="bg-grey"
+        class="bg-grey hover:contrast-125 cursor-pointer"
         v-for="(device, index) in devicesStore.formattedDevices"
         :key="`devices_${index}`"
+        @click="$router.push({ name: 'device', params: { id: device.id } })"
       >
         <td
           v-for="(column, index) in columns"
